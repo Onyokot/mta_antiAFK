@@ -1,5 +1,9 @@
 # 🚗 Anti-AFK for MTA:SA (Multi Theft Auto: San Andreas)
 
+<div align="center">
+  <img src="photos/preview.png" alt="Anti-AFK for MTA:SA" width="80%">
+</div>
+
 Простой и эффективный скрипт для обхода системы АФК (Away From Keyboard) на серверах Multi Theft Auto. Помогает оставаться в сети, качать уровень/зарплату и избегать киков от администрации, когда вам нужно отойти.
 
 ---
@@ -9,6 +13,18 @@
 * **Имитация реальных действий:** Скрипт не просто спамит одну кнопку, а имитирует случайные движения мыши.
 * **Безопасность:** Минимальный шанс обнаружения базовыми античитами.
 * **Легкий запуск:** Быстрая активация и деактивация прямо в игре.
+
+---
+
+## ⬇️ Скачать последнюю версию
+
+<div align="center">
+  <a href="https://github.com/Onyokot/mta_antiAFK/releases/latest">
+    <img src="https://img.shields.io/badge/📥_СКАЧАТЬ_ПОСЛЕДНЮЮ_ВЕРСИЮ-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Скачать" width="500">
+  </a>
+</div>
+
+> 🔗 Прямая ссылка: [Перейти в раздел Releases](https://github.com/ваш-username/ваш-репозиторий/releases/latest)
 
 ---
 
@@ -31,4 +47,6 @@
 ## ⚙️ Настройка (Configuration)
 
 Вы можете изменить интервал срабатывания в настройках.
+
+---
 
