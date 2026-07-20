@@ -24,7 +24,7 @@
   </a>
 </div>
 
-> 🔗 Прямая ссылка: [Перейти в раздел Releases](https://github.com/ваш-username/ваш-репозиторий/releases/latest)
+> 🔗 Прямая ссылка: [Перейти в раздел Releases](https://github.com/Onyokot/mta_antiAFK/releases/latest)
 
 ---
 
